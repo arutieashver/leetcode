@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/arutieashver/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/arutieashver/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/arutieashver/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/arutieashver/leetcode/tree/master/0045-jump-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/arutieashver/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/arutieashver/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arutieashver/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/arutieashver/leetcode/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arutieashver/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/arutieashver/leetcode/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
