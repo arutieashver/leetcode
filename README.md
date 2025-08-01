@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/arutieashver/leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/arutieashver/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/arutieashver/leetcode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/arutieashver/leetcode/tree/master/0492-construct-the-rectangle) |
 ## Recursion
 |  |
 | ------- |
