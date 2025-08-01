@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/arutieashver/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/arutieashver/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arutieashver/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/arutieashver/leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/arutieashver/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/arutieashver/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arutieashver/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/arutieashver/leetcode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/arutieashver/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/arutieashver/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
