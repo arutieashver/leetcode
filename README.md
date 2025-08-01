@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/arutieashver/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/arutieashver/leetcode/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/arutieashver/leetcode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/arutieashver/leetcode/tree/master/0401-binary-watch) |
 ## Stack
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/arutieashver/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/arutieashver/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/arutieashver/leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/arutieashver/leetcode/tree/master/0401-binary-watch) |
 ## Memoization
 |  |
 | ------- |
