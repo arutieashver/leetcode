@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/arutieashver/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/arutieashver/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/arutieashver/leetcode/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/arutieashver/leetcode/tree/master/0396-rotate-function) |
 ## Recursion
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/arutieashver/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/arutieashver/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arutieashver/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/arutieashver/leetcode/tree/master/0396-rotate-function) |
 ## Binary Search
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arutieashver/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/arutieashver/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/arutieashver/leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/arutieashver/leetcode/tree/master/0396-rotate-function) |
 ## Greedy
 |  |
 | ------- |
