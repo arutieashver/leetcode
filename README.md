@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/arutieashver/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/arutieashver/leetcode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/arutieashver/leetcode/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/arutieashver/leetcode/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/arutieashver/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/arutieashver/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/arutieashver/leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/arutieashver/leetcode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/arutieashver/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/arutieashver/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/arutieashver/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/arutieashver/leetcode/tree/master/0412-fizz-buzz) |
 ## Combinatorics
 |  |
 | ------- |
