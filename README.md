@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/arutieashver/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/arutieashver/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/arutieashver/leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/arutieashver/leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/arutieashver/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arutieashver/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/arutieashver/leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/arutieashver/leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/arutieashver/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/arutieashver/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/arutieashver/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/arutieashver/leetcode/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
