@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/arutieashver/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/arutieashver/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/arutieashver/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/arutieashver/leetcode/tree/master/0495-teemo-attacking) |
 ## Binary Search
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/arutieashver/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/arutieashver/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/arutieashver/leetcode/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/arutieashver/leetcode/tree/master/0495-teemo-attacking) |
 ## Combinatorics
 |  |
 | ------- |
