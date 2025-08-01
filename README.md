@@ -300,4 +300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/arutieashver/leetcode/tree/master/0175-combine-two-tables) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/arutieashver/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
