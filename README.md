@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/arutieashver/leetcode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/arutieashver/leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/arutieashver/leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/arutieashver/leetcode/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/arutieashver/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/arutieashver/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/arutieashver/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/arutieashver/leetcode/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
