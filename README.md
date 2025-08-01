@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/arutieashver/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/arutieashver/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/arutieashver/leetcode/tree/master/0500-keyboard-row) |
+| [1241-decompress-run-length-encoded-list](https://github.com/arutieashver/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 ## Binary Search
 |  |
 | ------- |
