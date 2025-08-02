@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/arutieashver/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/arutieashver/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/arutieashver/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/arutieashver/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arutieashver/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/arutieashver/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/arutieashver/leetcode/tree/master/0206-reverse-linked-list) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/arutieashver/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/arutieashver/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/arutieashver/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/arutieashver/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arutieashver/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/arutieashver/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/arutieashver/leetcode/tree/master/0205-isomorphic-strings) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/arutieashver/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/arutieashver/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/arutieashver/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/arutieashver/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arutieashver/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/arutieashver/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/arutieashver/leetcode/tree/master/0234-palindrome-linked-list) |
