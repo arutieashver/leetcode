@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/arutieashver/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/arutieashver/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/arutieashver/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/arutieashver/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/arutieashver/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arutieashver/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/arutieashver/leetcode/tree/master/0202-happy-number) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/arutieashver/leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/arutieashver/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/arutieashver/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/arutieashver/leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/arutieashver/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/arutieashver/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/arutieashver/leetcode/tree/master/0205-isomorphic-strings) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/arutieashver/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/arutieashver/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/arutieashver/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/arutieashver/leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/arutieashver/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arutieashver/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/arutieashver/leetcode/tree/master/0228-summary-ranges) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arutieashver/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arutieashver/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/arutieashver/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/arutieashver/leetcode/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/arutieashver/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/arutieashver/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/arutieashver/leetcode/tree/master/0396-rotate-function) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arutieashver/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/arutieashver/leetcode/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -468,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arutieashver/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/arutieashver/leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/arutieashver/leetcode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
