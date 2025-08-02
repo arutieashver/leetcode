@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/arutieashver/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/arutieashver/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arutieashver/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/arutieashver/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/arutieashver/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arutieashver/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/arutieashver/leetcode/tree/master/0228-summary-ranges) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arutieashver/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/arutieashver/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/arutieashver/leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/arutieashver/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/arutieashver/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/arutieashver/leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/arutieashver/leetcode/tree/master/0396-rotate-function) |
